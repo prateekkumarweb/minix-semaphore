@@ -1,0 +1,9 @@
+*.out
+producer
+consumer
+out.txt
+core.*
+pcLogfile
+semLogfile
+timec.txt
+timep.txt
